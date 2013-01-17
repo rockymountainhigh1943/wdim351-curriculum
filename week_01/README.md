@@ -10,8 +10,8 @@
 1. Write a paragraph below that explains to me what the video was about and what you got anything out of it. Be prepared to talk about it in Week 2.
 1. Push this change back up to your repo (`git push origin master`).
 
-## JavaScript testing
-### (http://youtu.be/YdFQ29oK50M)
+## JavaScript Testing with Adam Hawkins
+#### http://youtu.be/YdFQ29oK50M
 
 I watched the JavaScript Testing video with Adam Hawkins. He spoke about many different unit and integration testing utilities and the possible idea of a "Holy Grail" testing suite. This would be a system where it would be browser independent, all tests written in JS, unit and integration support, and would test against all target browsers in CL.
 
